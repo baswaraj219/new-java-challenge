@@ -50,3 +50,22 @@ Please let us know more about your Java experience in a few sentences. For examp
 - I have 3 years experience in Java and I started to use Spring Boot from last year
 - I'm a beginner and just recently learned Spring Boot
 - I know Spring Boot very well and have been using it for many years
+
+#### Updated below points
+
+- Correct Syntax and fixed bugs and errors
+- Added Caching logic for database calls using spring boot caching
+- Added Unit tests for Controller and Service class
+- Updated source with comments for classes, Interfaces and methods
+- I could have completed unit test with all test cases if there was 
+  little more time
+
+#### Experience in Java
+
+- I have 3.8 years experience in Java and I have worked on spring boot for one 
+  year for media and assets management system in 2018
+- I'm intermediate and know spring boot but later I did not get opportunity 
+  to work on it
+- I have worked on 3 java projects of Struts and Spring boot framework
+
+
